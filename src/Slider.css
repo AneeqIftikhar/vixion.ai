@@ -1,0 +1,35 @@
+::-webkit-scrollbar {
+    background-color: transparent;
+    width:0px;
+    height: 0px;
+    position: fixed;
+  }
+  
+  /* background of the scrollbar except button or resizer */
+  ::-webkit-scrollbar-track {
+    background-color: transparent;
+    position: fixed;
+  }
+  ::-webkit-scrollbar-track:hover {
+    background-color:transparent;
+    position: fixed;
+  }
+  
+  /* scrollbar itself */
+  ::-webkit-scrollbar-thumb {
+    background-color:rgba(255, 255, 255, 0.5);
+    border-radius:6px;
+    width: 6px;
+    height: 6px;
+    position: fixed;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background-color:rgba(255, 255, 255, 0.5);
+    position: absolute;
+  }
+  
+  /* set button(top and bottom of the scrollbar) */
+  ::-webkit-scrollbar-button {
+    display:none; 
+    position: fixed;
+  }
