@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Stolzl Display";
+  src: url("/fonts/Stolzl-Display/StolzlDisplay-Bold.eot");
+  src: local("./Stolzl Display Bold"), local("./StolzlDisplay-Bold"),
+    url("/fonts/Stolzl-Display/StolzlDisplay-Bold.eot?#iefix")
+      format("embedded-opentype"),
+    url("/fonts/Stolzl-Display/StolzlDisplay-Bold.woff2") format("woff2"),
+    url("/fonts/Stolzl-Display/StolzlDisplay-Bold.woff") format("woff"),
+    url("/fonts/Stolzl-Display/StolzlDisplay-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
