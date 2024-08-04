@@ -1,3 +1,6 @@
+# vixion.ai
+React Animated Responsive web app for service based comapnies
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
