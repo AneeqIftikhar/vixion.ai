@@ -1,6 +1,6 @@
 # vixion.ai
 React Animated Responsive Web app for Service based Companies
-
+![image](https://github.com/user-attachments/assets/7da73fba-4a22-4cd8-92db-fd775f9f9670)
 ![Git](https://github.com/user-attachments/assets/b6c67c06-2928-4344-aa86-bd6824468663)
 ![git2](https://github.com/user-attachments/assets/3c10bce0-8153-44c2-b323-4083438ce182)
 
